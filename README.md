@@ -2,6 +2,6 @@
 
 My programming education
 
-Helo hello!
+Hello hello!
 
 Starting out in the programming world, just a little beginner right now.
